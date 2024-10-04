@@ -2,20 +2,6 @@
 #EXTINF:-1 group-title="央视",CCTV1综合
 http://125.65.94.91:12353/live
 #EXTINF:-1 group-title="央视",CCTV1综合
-http://221.213.69.82:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV1综合
-http://222.241.154.37:9901/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV1综合
-http://27.11.49.234:8007/rtp/225.0.4.74:7980
-#EXTINF:-1 group-title="央视",CCTV1综合
-http://27.11.52.62:8001/rtp/225.0.4.74:7980
-#EXTINF:-1 group-title="央视",CCTV1综合
-http://27.11.52.62:8003/rtp/225.0.4.74:7980
-#EXTINF:-1 group-title="央视",CCTV1综合
-http://27.11.52.62:8005/rtp/225.0.4.74:7980
-#EXTINF:-1 group-title="央视",CCTV1综合
-http://60.7.56.33:4000/rtp/239.253.92.83:8012
-#EXTINF:-1 group-title="央视",CCTV1综合
 http://dev.grayidea.com:4022/udp/239.3.1.129:8008
 #EXTINF:-1 group-title="央视",CCTV1综合
 http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
@@ -33,6 +19,20 @@ http://112.123.206.32:808/hls/1/index.m3u8
 http://221.0.78.198:1681/hls/10201/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1综合
 http://121.24.98.226:8090/hls/9/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://221.213.69.82:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://222.241.154.37:9901/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://27.11.49.234:8007/rtp/225.0.4.74:7980
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://27.11.52.62:8001/rtp/225.0.4.74:7980
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://27.11.52.62:8003/rtp/225.0.4.74:7980
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://27.11.52.62:8005/rtp/225.0.4.74:7980
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://60.7.56.33:4000/rtp/239.253.92.83:8012
 #EXTINF:-1 group-title="央视",CCTV2财经
 http://110.53.52.63:8888/newlive/live/hls/3/live.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经
