@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视",CCTV1综合
-http://112.123.206.32:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1综合
 http://125.65.94.91:12353/live
-#EXTINF:-1 group-title="央视",CCTV1综合
-http://221.0.78.198:1681/hls/10201/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1综合
 http://221.213.69.82:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视",CCTV1综合
@@ -30,9 +26,13 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPla
 #EXTINF:-1 group-title="央视",CCTV1综合
 http://111.61.236.247:9081/hls/68/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1综合
-http://121.24.98.226:8090/hls/9/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1综合
 http://110.53.52.63:8888/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://112.123.206.32:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://221.0.78.198:1681/hls/10201/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1综合
+http://121.24.98.226:8090/hls/9/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经
 http://110.53.52.63:8888/newlive/live/hls/3/live.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经
